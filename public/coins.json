@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "111",
+        "coinName": "DAI",
+        "coinImage": "https://www.rld.finance/_next/image?url=%2Fdai-logo.png&w=64&q=75",
+        "exchangeWebsite": "https://app.hop.exchange/#/pools?token=DAI",
+        "exchangeWebsiteName": "HOP",
+        "exchangeWebsiteLogo":"https://www.rld.finance/hop-logo.svg",
+        "apy": 10.12
+    },
+    {
+        "_id": "112",
+        "coinName": "ETH",
+        "coinImage": "https://www.rld.finance/eth-token.svg",
+        "exchangeWebsite": "https://app.hop.exchange/#/pools?token=DAI",
+        "exchangeWebsiteName": "HOP",
+        "exchangeWebsiteLogo":"https://www.rld.finance/hop-logo.svg",
+        "apy": 8.22
+    },
+    {
+        "_id": "113",
+        "coinName": "USDT",
+        "coinImage": "https://www.rld.finance/usdt-logo.svg",
+        "exchangeWebsite": "https://app.hop.exchange/#/pools?token=DAI",
+        "exchangeWebsiteName": "HOP",
+        "exchangeWebsiteLogo":"https://www.rld.finance/hop-logo.svg",
+        "apy": 8.99
+    },
+    {
+        "_id": "114",
+        "coinName": "USDC",
+        "coinImage": "https://www.rld.finance/usdc-logo.svg",
+        "exchangeWebsite": "https://app.hop.exchange/#/pools?token=DAI",
+        "exchangeWebsiteName": "HOP",
+        "exchangeWebsiteLogo":"https://www.rld.finance/hop-logo.svg",
+        "apy": 9.37
+    },
+    {
+        "_id": "115",
+        "coinName": "BFR",
+        "coinImage": "https://www.rld.finance/_next/image?url=%2Fbfr-logo.png&w=64&q=75",
+        "exchangeWebsite": "https://gains.trade",
+        "exchangeWebsiteName": "Buffer Finance",
+        "exchangeWebsiteLogo":"https://www.rld.finance/_next/image?url=%2Fbfr-logo.png&w=64&q=75",
+        "apy": 13.12
+    },
+    {
+        "_id": "116",
+        "coinName": "GNS",
+        "coinImage": "https://www.rld.finance/usdc-logo.svg",
+        "exchangeWebsite": "https://gains.trade/",
+        "exchangeWebsiteName": "Gains Network",
+        "exchangeWebsiteLogo":"https://www.rld.finance/_next/image?url=%2Fgns-logo.png&w=32&q=75",
+        "apy": 3.71
+    },
+    {
+        "_id": "117",
+        "coinName": "GLP",
+        "coinImage": "https://www.rld.finance/glp-logo.svg",
+        "exchangeWebsite": "https://gmx.io/#/",
+        "exchangeWebsiteName": "GMX.io",
+        "exchangeWebsiteLogo":"https://www.rld.finance/gmx-logo.svg",
+        "apy": 5.58
+    },
+    {
+        "_id": "118",
+        "coinName": "GMX",
+        "coinImage": "https://www.rld.finance/gmx-logo.svg",
+        "exchangeWebsite": "https://gmx.io/#/",
+        "exchangeWebsiteName": "GMX.io",
+        "exchangeWebsiteLogo":"https://www.rld.finance/gmx-logo.svg",
+        "apy": 2.86
+    },
+    {
+        "_id": "119",
+        "coinName": "ETH",
+        "coinImage": "https://www.rld.finance/eth-token.svg",
+        "exchangeWebsite": "https://www.cap.finance/",
+        "exchangeWebsiteName": "Cap.finance",
+        "exchangeWebsiteLogo":"https://www.rld.finance/cap-logo.svg",
+        "apy": "~21.58"
+    },
+    {
+        "_id": "120",
+        "coinName": "USDC",
+        "coinImage": "https://www.rld.finance/usdc-logo.svg",
+        "exchangeWebsite": "https://www.cap.finance/",
+        "exchangeWebsiteName": "Cap.finance",
+        "exchangeWebsiteLogo":"https://www.rld.finance/cap-logo.svg",
+        "apy": "~21.58"
+    }
+]
